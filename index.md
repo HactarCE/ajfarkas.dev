@@ -2,20 +2,23 @@
 
 _Also known as HactarCE_
 
-I write high-quality applications in [Rust], and other things on occasion.
+I write high-quality applications in [Rust], and other things on occasion. See my [GitHub].
 
 Currently working at [Quadratic], the Data Science Spreadsheet.
 
 [Rust]: https://www.rust-lang.org/
+[GitHub]: https://github.com/HactarCE
 [Quadratic]: https://www.quadratichq.com/
 
-## [Hyperspeedcube]
+<img src="https://raw.githubusercontent.com/HactarCE/Hyperspeedcube/main/resources/icon/hyperspeedcube.svg?sanitize=true" alt="Hyperspeedcube logo" width="150" align="right">
+
+## [Hyperspeedcube] {% include release_badge.html project="Hyperspeedcube" %}
 
 [Hyperspeedcube] is a modern, powerful, and beginner-friendly higher-dimensional Rubik's cube simulator.
 
-[Hyperspeedcube]: Hyperspeedcube.md
+[Hyperspeedcube]: hyperspeedcube/index.md
 
-## [NDCell]
+## [NDCell] {% include release_badge.html project="NDCell" %}
 
 [NDCell] is a work-in-progress 2D and 3D cellular automaton simulator that I will hopefully return to someday. It currently has rendering, editing, and basic simulation working, but in the future it will hopefully have its own domain-specific programming language too.
 
