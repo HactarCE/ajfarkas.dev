@@ -2,12 +2,12 @@
 
 _Also known as HactarCE_
 
-I write high-quality applications in [Rust], and other things on occasion. See my [GitHub].
+I write high-quality applications in [Rust], and other things on occasion. See [my GitHub].
 
 Currently studying computer science, mathematics, and linguistics at NC State University while working at [Quadratic], the Data Science Spreadsheet.
 
 [Rust]: https://www.rust-lang.org/
-[GitHub]: https://github.com/HactarCE
+[my GitHub]: https://github.com/HactarCE
 [Quadratic]: https://www.quadratichq.com/
 
 <img src="https://raw.githubusercontent.com/HactarCE/Hyperspeedcube/main/resources/icon/hyperspeedcube.svg?sanitize=true" alt="Hyperspeedcube logo" width="150" align="right">
