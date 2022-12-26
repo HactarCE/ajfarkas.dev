@@ -4,7 +4,7 @@ _Also known as HactarCE_
 
 I write high-quality applications in [Rust], and other things on occasion. See my [GitHub].
 
-Currently working at [Quadratic], the Data Science Spreadsheet.
+Currently studying computer science, mathematics, and linguistics at NC State University while working at [Quadratic], the Data Science Spreadsheet.
 
 [Rust]: https://www.rust-lang.org/
 [GitHub]: https://github.com/HactarCE
@@ -14,9 +14,9 @@ Currently working at [Quadratic], the Data Science Spreadsheet.
 
 ## [Hyperspeedcube] {% include release_badge.html project="Hyperspeedcube" %}
 
-[Hyperspeedcube] is a modern, powerful, and beginner-friendly higher-dimensional Rubik's cube simulator.
+[Hyperspeedcube] is a modern, powerful, and beginner-friendly higher-dimensional Rubik's cube simulator that's been used to break numerous speedsolving records.
 
-[Hyperspeedcube]: hyperspeedcube/index.md
+[Hyperspeedcube]: pages/hyperspeedcube.md
 
 ## [NDCell] {% include release_badge.html project="NDCell" %}
 
@@ -25,8 +25,6 @@ Currently working at [Quadratic], the Data Science Spreadsheet.
 [NDCell]: https://github.com/HactarCE/NDCell
 
 ## Smaller projects
-
-### Puzzles
 
 ### Games
 
@@ -43,3 +41,13 @@ Currently working at [Quadratic], the Data Science Spreadsheet.
 ### Cellular automata
 
 - [Colorized](https://github.com/HactarCE/Colorized-CA#readme), a cellular automaton capable of computation and universal construction
+
+## Other things I do
+
+- Linguistics / constructed languages
+  - [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona)
+  - [Ithkuilic](https://en.wikipedia.org/wiki/Ithkuil) languages
+- Puzzle speedsolving
+  - See [my speedsolving accomplishments](pages/speedsolving.md)
+- Piano
+  - See [my sheet music](https://musescore.com/user/35369674)
