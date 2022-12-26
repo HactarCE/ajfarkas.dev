@@ -14,7 +14,7 @@ Currently studying computer science, mathematics, and linguistics at NC State Un
 
 ## [Hyperspeedcube] {% include release_badge.html project="Hyperspeedcube" %}
 
-[Hyperspeedcube] is a modern, powerful, and beginner-friendly higher-dimensional Rubik's cube simulator that's been used to break numerous speedsolving records.
+[Hyperspeedcube] is a modern, beginner-friendly 3D and 4D Rubik's cube simulator with customizable mouse and keyboard controls and advanced features for speedsolving. It's been used to break numerous speedsolving records.
 
 [Hyperspeedcube]: pages/hyperspeedcube.md
 

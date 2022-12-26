@@ -7,7 +7,7 @@ permalink: /hyperspeedcube/
 
 # Hyperspeedcube
 
-Hyperspeedcube is a modern, powerful, and beginner-friendly higher-dimensional Rubik's cube simulator that's been used to break numerous speedsolving records.
+Hyperspeedcube is a modern, beginner-friendly 3D and 4D Rubik's cube simulator with customizable mouse and keyboard controls and advanced features for speedsolving. It's been used to break numerous speedsolving records.
 
 ## Download
 
@@ -16,8 +16,9 @@ Download v1.0.2:
 - [Windows](https://github.com/HactarCE/Hyperspeedcube/releases/download/v1.0.2/hyperspeedcube_v1.0.2_win64.zip)
 - [Linux](https://github.com/HactarCE/Hyperspeedcube/releases/download/v1.0.2/hyperspeedcube_v1.0.2_linux.tar.gz)
 - [macOS](https://github.com/HactarCE/Hyperspeedcube/releases/download/v1.0.2/hyperspeedcube_v1.0.2_macos.tar.gz)
+- [source code on GitHub](https://github.com/HactarCE/Hyperspeedcube)
 
-Or build from source on [GitHub](https://github.com/HactarCE/Hyperspeedcube)
+Or see [instructions to build from source](https://github.com/HactarCE/Hyperspeedcube/blob/main/BUILDING.md)
 
 ## Support
 

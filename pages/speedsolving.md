@@ -23,5 +23,3 @@ As of 2023, I average 12 to 13 seconds on 3x3x3 using a stickerless MoYu WeiLong
 | 50        | 11.28 |
 | 100       | 11.40 |
 | 1000      | 11.90 |
-
-Hyperspeedcube is a modern, powerful, and beginner-friendly higher-dimensional Rubik's cube simulator.
