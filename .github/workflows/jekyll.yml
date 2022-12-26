@@ -1,6 +1,9 @@
 name: Jekyll site CI
 
-on: [pull_request]
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
 
 jobs:
   build:
