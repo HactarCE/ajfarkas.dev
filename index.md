@@ -36,7 +36,7 @@ Currently studying computer science, mathematics, and linguistics at NC State Un
 
 ### Esoteric programming
 
-- [Metatape, an esoteric programming language](https://github.com/HactarCE/Metatape#readme)
+- [Metatape](https://github.com/HactarCE/Metatape#readme), an esoteric programming language
 
 ### Cellular automata
 
