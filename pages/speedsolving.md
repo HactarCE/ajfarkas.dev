@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Speedsolving accomplishments
+title: Speedsolving Accomplishments
 permalink: /speedsolving/
 ---
 
