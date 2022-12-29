@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-{% assign is_subpage = page.url != "/" %}
+{% if page.url == "/" %}
+  {% assign is_subpage = false %}
+{% else %}
+  {% assign is_subpage = true %}
+{% endif %}
 <html lang="en">
   <head>
     <meta charset="utf-8">
