@@ -1,9 +1,8 @@
 ---
 layout: subpage
+title: Speedsolving accomplishments
 permalink: /speedsolving/
 ---
-
-# Speedsolving accomplishments
 
 ## 3x3x3x3
 

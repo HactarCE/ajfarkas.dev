@@ -1,9 +1,8 @@
 ---
 layout: subpage
+title: Hyperspeedcube
 permalink: /hyperspeedcube/
 ---
-
-# Hyperspeedcube
 
 <img src="https://raw.githubusercontent.com/HactarCE/Hyperspeedcube/main/resources/icon/hyperspeedcube.svg?sanitize=true" alt="Hyperspeedcube logo" width="150" align="right">
 

@@ -1,4 +1,6 @@
-# Andrew J. Farkas
+---
+layout: main
+---
 
 _Also known as HactarCE_
 
