@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: default
 title: Hyperspeedcube
 permalink: /hyperspeedcube/
 ---
