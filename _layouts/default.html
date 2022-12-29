@@ -7,7 +7,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ title }}{% if is_subpage %} | {{ site.title }}{% endif %}</title>
+    <title>{% if is_subpage %}{{ page.title }} | {% endif %}{{ site.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description | default: site.github.project_tagline }}">
     <link rel="stylesheet" href="{{ '/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -15,7 +15,7 @@
   </head>
   <body>
     {% if is_subpage %}{% include back_to_main_page.html %}{% endif %}
-    <h1>{{ site.title }}</h1>
+    <h1>{% if is_subpage %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
     <section>
       {{ content }}
     </section>
