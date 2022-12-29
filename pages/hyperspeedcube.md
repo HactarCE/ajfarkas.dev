@@ -3,9 +3,9 @@ layout: subpage
 permalink: /hyperspeedcube/
 ---
 
-<img src="https://raw.githubusercontent.com/HactarCE/Hyperspeedcube/main/resources/icon/hyperspeedcube.svg?sanitize=true" alt="Hyperspeedcube logo" width="150" align="right">
-
 # Hyperspeedcube
+
+<img src="https://raw.githubusercontent.com/HactarCE/Hyperspeedcube/main/resources/icon/hyperspeedcube.svg?sanitize=true" alt="Hyperspeedcube logo" width="150" align="right">
 
 Hyperspeedcube is a modern, beginner-friendly 3D and 4D Rubik's cube simulator with customizable mouse and keyboard controls and advanced features for speedsolving. It's been used to break numerous speedsolving records.
 
@@ -28,11 +28,12 @@ If you're having trouble with Hyperspeedcube, join the {% include hypercubers_di
 
 Click for full resolution.
 
-<img src="https://i.imgur.com/rpMgIwp.png" alt="3x3x3x3 with one cell mid-twist" width="33%" height="33%">
-<img src="https://i.imgur.com/uDzvYLz.png" alt="3x3x3x3 near the end of F2L-b with many tools and settings windows open" width="33%" height="33%">
-<img src="https://i.imgur.com/aAVOjsD.png" alt="Solved 2x2x2" width="33%" height="33%">
-
-[More screenshots](https://imgur.com/a/6UlgI8v)
+{% include small_imgur.html  src="rpMgIwp.png" alt="3x3x3x3 with the far cell mid-twist" %}
+{% include small_imgur.html  src="uDzvYLz.png" alt="3x3x3x3 near the end of F2L-b with many tools and settings windows open" %}
+{% include small_imgur.html  src="aAVOjsD.png" alt="Solved 2x2x2" %}
+{% include small_imgur.html  src="q1CFcri.png" alt="3x3x3 superflip" %}
+{% include small_imgur.html  src="jWmiZIG.png" alt="3x3x3x3 with the back cell mid-twist" %}
+{% include small_imgur.html  src="XAH18Lo.png" alt="Solved 3x3x3x3 with 2c pieces highlighted and stickers on the same piece connected" %}
 
 ## Features
 
