@@ -8,6 +8,8 @@ permalink: /hyperspeedcube/
 
 Hyperspeedcube is a modern, beginner-friendly 3D and 4D Rubik's cube simulator with customizable mouse and keyboard controls and advanced features for speedsolving. It's been used to break numerous speedsolving records.
 
+If you're new to hypercubing, you might want to read the [FAQ](hyperspeedcube/faq.md).
+
 ## Download
 
 Download v1.0.2:
