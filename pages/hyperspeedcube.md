@@ -10,9 +10,12 @@ Hyperspeedcube is a modern, beginner-friendly 3D and 4D Rubik's cube simulator w
 
 If you're new to hypercubing, you might want to read the [FAQ](hyperspeedcube/faq.md).
 
-## Download
+## Download [![Release badge]][Release link]
 
-Download v1.0.2:
+[Release badge]: https://img.shields.io/github/v/release/HactarCE/Hyperspeedcube
+[Release link]: https://github.com/HactarCE/Hyperspeedcube/releases/latest
+
+Download the latest version:
 
 - [Windows](https://github.com/HactarCE/Hyperspeedcube/releases/latest/download/hyperspeedcube_win64.zip)
 - [Linux](https://github.com/HactarCE/Hyperspeedcube/releases/latest/download/hyperspeedcube_linux.tar.gz)
