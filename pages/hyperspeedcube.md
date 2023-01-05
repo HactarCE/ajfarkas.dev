@@ -14,9 +14,9 @@ If you're new to hypercubing, you might want to read the [FAQ](hyperspeedcube/fa
 
 Download v1.0.2:
 
-- [Windows](https://github.com/HactarCE/Hyperspeedcube/releases/download/v1.0.2/hyperspeedcube_v1.0.2_win64.zip)
-- [Linux](https://github.com/HactarCE/Hyperspeedcube/releases/download/v1.0.2/hyperspeedcube_v1.0.2_linux.tar.gz)
-- [macOS](https://github.com/HactarCE/Hyperspeedcube/releases/download/v1.0.2/hyperspeedcube_v1.0.2_macos.tar.gz)
+- [Windows](https://github.com/HactarCE/Hyperspeedcube/releases/latest/download/hyperspeedcube_win64.zip)
+- [Linux](https://github.com/HactarCE/Hyperspeedcube/releases/latest/download/hyperspeedcube_linux.tar.gz)
+- [macOS](https://github.com/HactarCE/Hyperspeedcube/releases/latest/download/hyperspeedcube_macos.tar.gz)
 - [source code on GitHub](https://github.com/HactarCE/Hyperspeedcube)
 
 Or see [instructions to build from source](https://github.com/HactarCE/Hyperspeedcube/blob/main/BUILDING.md)
