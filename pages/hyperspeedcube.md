@@ -6,9 +6,11 @@ permalink: /hyperspeedcube/
 
 <img src="https://raw.githubusercontent.com/HactarCE/Hyperspeedcube/main/resources/icon/hyperspeedcube.svg?sanitize=true" alt="Hyperspeedcube logo" width="150" align="right">
 
-Hyperspeedcube is a modern, beginner-friendly 3D and 4D Rubik's cube simulator with customizable mouse and keyboard controls and advanced features for speedsolving. It's been used to break numerous speedsolving records.
+Hyperspeedcube is a modern, beginner-friendly 3D and 4D Rubik's cube simulator with customizable mouse and keyboard controls and advanced features for speedsolving. It's been used to break numerous speedsolving records and runs on all major operating systems plus the web.
 
-If you're new to hypercubing, you might want to read the [FAQ](hyperspeedcube/faq.md).
+[Try it online!](https://hypercubing.xyz/hyperspeedcube/)
+
+If you're new to hypercubing, check out [hypercubing.xyz](https://hypercubing.xyz/), the Hypercubing community website, which I also help maintain.
 
 ## Download [![Release badge]][Release link]
 
