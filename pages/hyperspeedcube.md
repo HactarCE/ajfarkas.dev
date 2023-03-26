@@ -71,17 +71,60 @@ Hyperspeedcube has completely customizable mouse and keyboard controls. By defau
 
 The keyboard controls for the 3D Rubik's cube are mostly based on [Ryan Heise's speedcube simulator](https://www.ryanheise.com/cube/speed.html).
 
-### Custom keybindings
+### Custom keybindings and piece filters
 
-TODO -- I need to write an explanation of the keybinding system, or simplify it.
-
-### Piece filters
-
-TODO -- I need to write an explanation of the piece filters system, or simplify it.
+The keybinds and piece filters systems are both complex and unintuitive and need to be reworked. I'm reluctant to write a guide for the current system when it's going to change soon; see [#Future plans] below.
 
 ## Future plans
 
-- Speedsolving tools
-  - Timer with autosplitting
-  - Timeline
-- More puzzles
+I am currently (as of early 2023) working on Hyperspeedcube 2.0, which will vastly expand the capabilities of Hyperspeedcube's puzzle engine and overhaul the UI to be more powerful and more intuitive.
+
+### New puzzle engine
+
+Puzzles will be defined using planar or spherical cuts in any number of dimensions, and twists as rotations to the pieces above or below certain cuts. This should be sufficient to simulate every 4D+ twisty puzzle we are currently aware of plus many more, subsuming most of the functionality of all these existing programs:
+
+- [pCubes](https://twistypuzzles.com/forum/viewtopic.php?t=27054)
+- [Magic Cube 4D](https://superliminal.com/cube/)
+- [Magic Cube 5D](https://www.gravitation3d.com/magiccube5d/)
+- [Magic Cube 7D](https://superliminal.com/andrey/mc7d/)
+- [Magic 120 Cell](http://www.gravitation3d.com/magic120cell/index.html)
+- [Magic Puzzle Ultimate](https://superliminal.com/andrey/mpu/)
+- [Magic Simplex 5D](https://superliminal.com/andrey/ms5d/)
+
+With further modification, this new puzzle engine will also be able to support many more features never before seen in higher-dimensional puzzles:
+
+- Bandaging
+- Jumbling
+- Concave planar shapes
+- Puzzle generators (e.g., P×Q×R×S hypercuboid generator)
+- Multiple cores (e.g., corner-turning cuboids)
+
+I also intend to add a tiling engine, which would subsume ([MagicTile](http://roice3.org/magictile/)) but could also simulate puzzles on non-regular tilings. I'm still investigating what this would look like, and what the limits would be.
+
+### Overhauled UI
+
+#### Keybinds
+
+The current keybind sets system is complex and unintuitive. I have plans for a system involving modes that will have just one list of keybinds organized into collapsible sections, and each section may be active in some subset of modes.
+
+#### Piece filters
+
+I plan to take inspiration from MC7D's piece filters UI to build a system that is visually simpler for beginners and more powerful for experts, using these elements:
+
+- Tri-state checkboxes
+- Hierarchy of piece types for big puzzles
+- Tool to click on pieces to show/hide them
+- Piece filters based on boolean algebra expressions
+
+### Other features
+
+There are other oft-requested features that will become even more important with the new variety of puzzles. I don't expect all of these to make it into the first release of Hyperspeedcube 2, but I intend to implement all of them eventually:
+
+- New color picker
+- Timer with auto splitting
+- Fewest-moves solution leaderboard
+- Timeline for analyzing speedsolves/FMC solutions
+
+### Following development
+
+I'll be posting updates in #programming channel on the {% include hypercubers_discord.html %}. If you'd like to support me monetarily, you can also [support me on Patreon](https://www.patreon.com/ajfarkas12) and get early access to beta builds. Anything I post on Patreon will also be available by building from source on GitHub, and once a version is ready and been beta tested by my Patreon supporters, it will be available to download for everyone, for free.
