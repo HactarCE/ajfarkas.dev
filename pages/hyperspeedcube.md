@@ -112,6 +112,7 @@ There are other oft-requested features that will become even more important with
 - Fewest-moves solution leaderboard
 - Timeline for analyzing speedsolves/FMC solutions
 - Macros (custom move sequences)
+- Auto-updater
 
 ### Following development
 
