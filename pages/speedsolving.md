@@ -6,7 +6,7 @@ permalink: /speedsolving/
 
 ## 3x3x3x3
 
-At the time of writing, the 3x3x3x3 world record is being rapidly lowered. See the [Hypercubing PB leaderboard](https://docs.google.com/spreadsheets/d/1t65sauQpTPEQ4XFWtVlLWkN1h-1O2TkhUf3KLO7X9yk/edit?usp=sharing) for whether I currently hold the world record, and [this playlist](https://www.youtube.com/playlist?list=PLBQ7ltR88PRukkrTqT8Wld5g2zBWjdIgg) for some videos of my solves.
+At the time of writing, the 3x3x3x3 world record is being rapidly lowered. See the [Hypercubing PB leaderboard](https://hypercubing.xyz/leaderboards/) for whether I currently hold the world record, and [this playlist](https://www.youtube.com/playlist?list=PLBQ7ltR88PRukkrTqT8Wld5g2zBWjdIgg) for some videos of my solves.
 
 Join the {% include hypercubers_discord.html %} if you're curious or want to get involved!
 
