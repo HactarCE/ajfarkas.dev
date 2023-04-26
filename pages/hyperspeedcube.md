@@ -116,4 +116,4 @@ There are other oft-requested features that will become even more important with
 
 ### Following development
 
-I'll be posting updates in the #programming channel on the {% include hypercubers_discord.html %}. If you'd like to support me monetarily and get access to early builds, you can also [support me on Patreon](https://www.patreon.com/ajfarkas12). Any builds I provide on Patreon will also be available by building from source on GitHub, and once a version is ready and has been beta-tested by my Patreon supporters, it will be available to download for everyone, for free.
+I'll be posting updates in the **Hyperspeedcube 2.0** thread on the {% include hypercubers_discord.html %}. If you'd like to support me monetarily and get access to early builds, you can also [support me on Patreon](https://www.patreon.com/ajfarkas12). Any builds I provide on Patreon will also be available by building from source on GitHub, and once a version is ready and has been beta-tested by my Patreon supporters, it will be available to download for everyone, for free.
