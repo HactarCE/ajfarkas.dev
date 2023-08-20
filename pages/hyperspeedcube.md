@@ -81,17 +81,17 @@ I am currently (as of early 2023) working on Hyperspeedcube 2.0, which will vast
 
 ### New puzzle engine
 
-Puzzles will be defined using planar and spherical cuts, and twists will be rotations to the pieces above or below certain cuts. This is sufficient to simulate every 4D+ twisty puzzle we are currently aware and many more. This will make [Magic Cube 4D](https://superliminal.com/cube/), [Magic Cube 5D](https://www.gravitation3d.com/magiccube5d/), [Magic Cube 7D](https://superliminal.com/andrey/mc7d/), [Magic Puzzle Ultimate](https://superliminal.com/andrey/mpu/), and [Magic Simplex 5D](https://superliminal.com/andrey/ms5d/) completely obsolete, and will make [pCubes](https://twistypuzzles.com/forum/viewtopic.php?t=27054) and [Magic 120 Cell](http://www.gravitation3d.com/magic120cell/index.html) largely obsolete.
+Puzzles will be defined using planar and spherical cuts, and twists will be rotations to the pieces above or below certain cuts. This is sufficient to simulate every 4D+ twisty puzzle we are currently aware of and many more. This will make [Magic Cube 4D](https://superliminal.com/cube/), [Magic Cube 5D](https://www.gravitation3d.com/magiccube5d/), [Magic Cube 7D](https://superliminal.com/andrey/mc7d/), [Magic Puzzle Ultimate](https://superliminal.com/andrey/mpu/), and [Magic Simplex 5D](https://superliminal.com/andrey/ms5d/) completely obsolete, and will make [pCubes](https://twistypuzzles.com/forum/viewtopic.php?t=27054) and [Magic 120 Cell](http://www.gravitation3d.com/magic120cell/index.html) largely obsolete.
 
-With further modification, this new puzzle engine will also be able to support features never before seen in higher-dimensional puzzles, including bandaging, jumbling, nonplanar cuts, puzzle generators (e.g., P×Q×R×S hypercuboid generator), and multiple cores (e.g., corner-turning cuboids)
+With further modification, this new puzzle engine will also be able to support features never before seen in higher-dimensional puzzles, including bandaging, jumbling, nonplanar cuts, puzzle generators (e.g., P×Q×R×S hypercuboid generator), and multiple cores (e.g., corner-turning cuboids).
 
-I also intend to add a tiling engine, which support everything in [MagicTile](http://roice3.org/magictile/) but also puzzles on non-regular tilings. I'm still investigating what this would look like, and what the limits would be.
+I also intend to add a tiling engine, which will support everything in [MagicTile](http://roice3.org/magictile/) as well as puzzles on non-regular tilings. I'm still investigating what this would look like, and what the limits would be.
 
 ### Overhauled UI
 
 #### Keybinds
 
-The current keybind sets system is complex and unintuitive. I have plans for a system involving modes that will have just one list of keybinds organized into collapsible sections, and each section may be active in some subset of modes.
+The current keybind sets system is complex and unintuitive. I have plans for a system involving modes that will have just one list of keybinds organized into collapsible sections, and each section may be active in some subset of modes. Keybinds will be shared between puzzles with similar twist sets, even if the shapes are different; for example, a face-turning cube and corner-turning octahedron would share the same keybinds.
 
 #### Piece filters
 
@@ -101,6 +101,7 @@ I plan to take inspiration from MC7D's piece filters UI to build a system that i
 - Hierarchy of piece types for big puzzles
 - Tool to click on pieces to show/hide them
 - Piece filters based on boolean algebra expressions
+- Rotating piece filters
 
 ### Other features
 
