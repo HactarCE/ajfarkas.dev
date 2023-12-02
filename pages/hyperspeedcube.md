@@ -67,7 +67,7 @@ Hyperspeedcube has completely customizable mouse and keyboard controls. By defau
 - Left click to rotate a face counterclockwise
 - Right click to rotate a face clockwise
 - Middle click to recenter a face
-- See **Help → Keybind reference** for keybinds
+- See **Help → Keybinds reference** for keybinds
 
 The keyboard controls for the 3D Rubik's cube are mostly based on [Ryan Heise's speedcube simulator](https://www.ryanheise.com/cube/speed.html).
 
@@ -117,4 +117,6 @@ There are other oft-requested features that will become even more important with
 
 ### Following development
 
-I'll be posting updates in the **Hyperspeedcube 2.0** thread on the {% include hypercubers_discord.html %}. If you'd like to support me monetarily and get access to early builds, you can also [support me on Patreon](https://www.patreon.com/ajfarkas12). Any builds I provide on Patreon will also be available by building from source on GitHub, and once a version is ready and has been beta-tested by my Patreon supporters, it will be available to download for everyone, for free.
+I'll be posting updates in the [**Hyperspeedcube 2.0**][hsc-updates-thread] thread in #hyper-forum on the {% include hypercubers_discord.html %}. Once Hyperspeedcube 2.0 is ready for general use, I will ping the **@Hyperspeedcube Update** role (and possibly **@everyone**).
+
+[hsc-updates-thread]: https://discord.com/channels/852389089268858922/1096955261719162910
