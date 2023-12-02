@@ -2,7 +2,7 @@
 layout: default
 ---
 
-_Also known as HactarCE_
+_Also known as HactarCE (he/they)_
 
 I write high-quality applications in [Rust], and other things on occasion. See [my GitHub].
 
