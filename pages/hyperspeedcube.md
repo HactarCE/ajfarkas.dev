@@ -14,6 +14,8 @@ If you're new to hypercubing, check out [hypercubing.xyz](https://hypercubing.xy
 
 ## Download [![Release badge]][Release link]
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C2UG3S8)
+
 [Release badge]: https://img.shields.io/github/v/release/HactarCE/Hyperspeedcube
 [Release link]: https://github.com/HactarCE/Hyperspeedcube/releases/latest
 
@@ -117,6 +119,8 @@ There are other oft-requested features that will become even more important with
 
 ### Following development
 
-I'll be posting updates in the [**Hyperspeedcube 2.0**][hsc-updates-thread] thread in #hyper-forum on the {% include hypercubers_discord.html %}. Once Hyperspeedcube 2.0 is ready for general use, I will ping the **@Hyperspeedcube Update** role (and possibly **@everyone**).
+I'll be posting updates in the [**Hyperspeedcube 2.0**][hsc-updates-thread] thread in #hyper-forum on the {% include hypercubers_discord.html %}. Once Hyperspeedcube 2.0 is ready for general use, I will ping the **@Hyperspeedcube Update** role (and possibly **@everyone**). If you'd like to support me monetarily and get access to early builds, you can [support me on Ko-fi](https://ko-fi.com/C0C2UG3S8). Any builds I provide on Ko-fi will also be available by building from source on GitHub, and once a version is ready and has been beta-tested by my Ko-fi supporters, it will be available to download for everyone, for free.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C2UG3S8)
 
 [hsc-updates-thread]: https://discord.com/channels/852389089268858922/1096955261719162910
