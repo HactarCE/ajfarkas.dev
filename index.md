@@ -4,6 +4,8 @@ layout: default
 
 _Also known as HactarCE (he/they)_
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C2UG3S8)
+
 I write high-quality applications in [Rust], and other things on occasion. See [my GitHub].
 
 Currently studying computer science, mathematics, and linguistics at NC State University while working at [Quadratic], the Data Science Spreadsheet.
