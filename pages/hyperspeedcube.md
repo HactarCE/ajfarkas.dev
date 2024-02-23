@@ -32,6 +32,8 @@ Or see [instructions to build from source](https://github.com/HactarCE/Hyperspee
 
 If you're having trouble with Hyperspeedcube, join the {% include hypercubers_discord.html %} and ping me (**@HactarCE** or **@Hyperspeedcube Developer**) in the #help channel.
 
+If Hyperspeedcube fails to start on Windows with the error message "VCRUNTIME140.dll was not found" then you need to install the Visual C++ Runtime libraries, which can be found [here] (https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist). If you don't know which one to download, you probably want the [x64 version](https://aka.ms/vs/17/release/vc_redist.x64.exe).
+
 ## Screenshots
 
 Click for full resolution.
