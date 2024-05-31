@@ -4,13 +4,13 @@ title: Speedsolving Accomplishments
 permalink: /speedsolving/
 ---
 
-## 3x3x3x3
+## 4D
 
-At the time of writing, the 3x3x3x3 world record is being rapidly lowered. See the [Hypercubing PB leaderboard](https://hypercubing.xyz/leaderboards/) for whether I currently hold the world record, and [this playlist](https://www.youtube.com/playlist?list=PLBQ7ltR88PRukkrTqT8Wld5g2zBWjdIgg) for some videos of my solves.
+At the time of writing (June 2024), I hold the speedsolving world records for 3x3x3x3, 4x4x4x4, and 5x5x5x5 puzzles, and am the only person who has solved a 3x3x3x3 in less than 2 minutes. See the [hypercubing.xyz leaderboards](https://hypercubing.xyz/leaderboards/) for the current world records, and [this playlist](https://www.youtube.com/playlist?list=PLBQ7ltR88PRukkrTqT8Wld5g2zBWjdIgg) for some videos of my solves.
 
 Join the {% include hypercubers_discord.html %} if you're curious or want to get involved!
 
-## 3x3x3
+## 3D
 
 As of 2023, I average 12 to 13 seconds on 3x3x3 using a stickerless MoYu WeiLong GTS3M. My personal best is 6.46 seconds.
 
