@@ -81,11 +81,11 @@ The keybinds and piece filters systems are both complex and unintuitive and I ha
 
 ## Future plans
 
-I am currently (as of early 2023) working on Hyperspeedcube 2.0, which will vastly expand the capabilities of Hyperspeedcube's puzzle engine and overhaul the UI to be more powerful and more intuitive.
+I am currently (as of mid 2024) working on Hyperspeedcube 2.0, which will vastly expand the capabilities of Hyperspeedcube's puzzle engine and overhaul the UI to be more powerful and more intuitive.
 
 ### New puzzle engine
 
-Puzzles will be defined using planar and spherical cuts, and twists will be rotations to the pieces above or below certain cuts. This is sufficient to simulate every 4D+ twisty puzzle we are currently aware of and many more. This will make [Magic Cube 4D](https://superliminal.com/cube/), [Magic Cube 5D](https://www.gravitation3d.com/magiccube5d/), [Magic Cube 7D](https://superliminal.com/andrey/mc7d/), [Magic Puzzle Ultimate](https://superliminal.com/andrey/mpu/), and [Magic Simplex 5D](https://superliminal.com/andrey/ms5d/) completely obsolete, and will make [pCubes](https://twistypuzzles.com/forum/viewtopic.php?t=27054) and [Magic 120 Cell](http://www.gravitation3d.com/magic120cell/index.html) largely obsolete.
+Puzzles will be defined using planar cuts, and twists will be rotations to the pieces above or below certain cuts. This is sufficient to simulate nearly every 4D+ twisty puzzle we are currently aware of and many more. This will make [Magic Cube 4D](https://superliminal.com/cube/), [Magic Cube 5D](https://www.gravitation3d.com/magiccube5d/), [Magic Cube 7D](https://superliminal.com/andrey/mc7d/), [Magic Puzzle Ultimate](https://superliminal.com/andrey/mpu/), and [Magic Simplex 5D](https://superliminal.com/andrey/ms5d/) completely obsolete, and will make [pCubes](https://twistypuzzles.com/forum/viewtopic.php?t=27054) and [Magic 120 Cell](http://www.gravitation3d.com/magic120cell/index.html) largely obsolete.
 
 With further modification, this new puzzle engine will also be able to support features never before seen in higher-dimensional puzzles, including bandaging, jumbling, nonplanar cuts, puzzle generators (e.g., P×Q×R×S hypercuboid generator), and multiple cores (e.g., corner-turning cuboids).
 
@@ -121,7 +121,7 @@ There are other oft-requested features that will become even more important with
 
 ### Following development
 
-I'll be posting updates in the [**Hyperspeedcube 2.0**][hsc-updates-thread] thread in #hyper-forum on the {% include hypercubers_discord.html %}. Once Hyperspeedcube 2.0 is ready for general use, I will ping the **@Hyperspeedcube Update** role (and possibly **@everyone**). If you'd like to support me monetarily and get access to early builds, you can [support me on Ko-fi](https://ko-fi.com/C0C2UG3S8). Any builds I provide on Ko-fi will also be available by building from source on GitHub, and once a version is ready and has been beta-tested by my Ko-fi supporters, it will be available to download for everyone, for free.
+I'll be posting updates in the [**Hyperspeedcube 2.0 Development Updates**][hsc-updates-thread] thread in #hyper-forum on the {% include hypercubers_discord.html %}. Once Hyperspeedcube 2.0 is ready for general use, I will ping the **@Hyperspeedcube Update** role (and possibly **@everyone**). If you'd like to support me monetarily and get access to early builds, you can [support me on Ko-fi](https://ko-fi.com/C0C2UG3S8). Any builds I provide on Ko-fi will also be available by building from source on GitHub, and a stable version is ready and has been beta-tested by my Ko-fi supporters, it will be available to download for everyone, for free.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C2UG3S8)
 
