@@ -30,7 +30,7 @@ Or see [instructions to build from source](https://github.com/HactarCE/Hyperspee
 
 ## Help
 
-See [Hyperspeedcube - Troubleshooting] (https://hypercubing.xyz/software/hyperspeedcube/#troubleshooting).
+See [Hyperspeedcube - Troubleshooting](https://hypercubing.xyz/software/hyperspeedcube/#troubleshooting).
 
 ## Screenshots
 
