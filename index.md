@@ -8,7 +8,7 @@ _Also known as HactarCE (he/they)_
 
 I write high-quality applications in [Rust], and other things on occasion. See [my GitHub].
 
-Currently studying computer science, mathematics, and linguistics at NC State University while working at [Quadratic], the Data Science Spreadsheet.
+Currently working part-time at [Quadratic], the Data Science Spreadsheet.
 
 [Rust]: https://www.rust-lang.org/
 [my GitHub]: https://github.com/HactarCE
