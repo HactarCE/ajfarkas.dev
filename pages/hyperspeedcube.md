@@ -91,9 +91,15 @@ I also intend to add a tiling engine, which will support everything in [MagicTil
 
 ### Overhauled UI
 
+#### Colors
+
+The new color customization UI is complete. It supports built-in and user-defined color sets for each shape and a customizable global color palette.
+
+{% include small_imgur.html  src="Gi8Sdji.png" alt="FTO and 3x3x3, with many FTO color schemes listed on the right and a list of many colors on the left, organized into sets of various sizes, with a color picker open on one of them" %}
+
 #### Keybinds
 
-The current keybind sets system is complex and unintuitive. I have plans for a system involving modes that will have just one list of keybinds organized into collapsible sections, and each section may be active in some subset of modes. Keybinds will be shared between puzzles with similar twist sets, even if the shapes are different; for example, a face-turning cube and corner-turning octahedron would share the same keybinds.
+The keybind sets system in Hyperspeedcube 1 is complex and unintuitive. I have plans for a system involving modes that will have just one list of keybinds organized into collapsible sections, and each section may be active in some subset of modes. Keybinds will be shared between puzzles with similar twist sets, even if the shapes are different; for example, a face-turning cube and corner-turning octahedron would share the same keybinds.
 
 #### Piece filters
 
