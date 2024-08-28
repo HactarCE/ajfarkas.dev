@@ -83,7 +83,9 @@ I am currently (as of mid 2024) working on Hyperspeedcube 2.0, which will vastly
 
 ### New puzzle engine
 
-The new puzzle engine is completely implemented. Puzzles are defined using a [Lua API](https://dev.hypercubing.xyz/hsc/puzzle-dev/), and can be reloaded in seconds. Puzzles from 3D to 7D can be rendered, although there are only mouse controls available for 3D and 4D puzzles. Puzzles are defined using (hyper)planar cuts and must be doctrinaire. This is sufficient to simulate nearly every 4D+ twisty puzzle we are currently aware of and many more. Once released, Hyperspeedcube 2 will make [Magic Cube 4D](https://superliminal.com/cube/), [Magic Cube 5D](https://www.gravitation3d.com/magiccube5d/), [Magic Cube 7D](https://superliminal.com/andrey/mc7d/), [Magic Puzzle Ultimate](https://superliminal.com/andrey/mpu/), and [Magic Simplex 5D](https://superliminal.com/andrey/ms5d/) completely obsolete, and will make [pCubes](https://twistypuzzles.com/forum/viewtopic.php?t=27054) and [Magic 120 Cell](http://www.gravitation3d.com/magic120cell/index.html) largely obsolete.
+The new puzzle engine is almost completely implemented. Puzzles are defined using a [Lua API](https://dev.hypercubing.xyz/hsc/puzzle-dev/), and can be reloaded in seconds. Puzzles from 3D to 7D can be rendered, although there are only mouse controls available for 3D and 4D puzzles. Puzzles are defined using (hyper)planar cuts and must be doctrinaire. This is sufficient to simulate nearly every 4D+ twisty puzzle we are currently aware of and many more. Once released, Hyperspeedcube 2 will make [Magic Cube 4D](https://superliminal.com/cube/), [Magic Cube 5D](https://www.gravitation3d.com/magiccube5d/), [Magic Cube 7D](https://superliminal.com/andrey/mc7d/), [Magic Puzzle Ultimate](https://superliminal.com/andrey/mpu/), and [Magic Simplex 5D](https://superliminal.com/andrey/ms5d/) completely obsolete, and will make [pCubes](https://twistypuzzles.com/forum/viewtopic.php?t=27054) and [Magic 120 Cell](http://www.gravitation3d.com/magic120cell/index.html) largely obsolete.
+
+See [this GitHub issue](https://github.com/HactarCE/Hyperspeedcube/issues/55) for a list of puzzles that will be in Hyperspeedcube 2.0.
 
 With further modification, this new puzzle engine will also be able to support features never before seen in higher-dimensional puzzles, including bandaging, jumbling, certain nonplanar cuts, puzzle generators (e.g., P×Q×R×S hypercuboid generator), and multiple cores (e.g., corner-turning cuboids).
 
@@ -103,29 +105,34 @@ The keybind sets system in Hyperspeedcube 1 is complex and unintuitive. I have p
 
 #### Piece filters
 
-I plan to take inspiration from MC7D's piece filters UI to build a system that is visually simpler for beginners and more powerful for experts, using these elements:
+The piece filters UI is nearly complete. It takes inspiration from MC7D's piece filters UI to build a system that is visually simpler for beginners and more powerful for experts compared to Hyperspeedcube 1, using these elements:
 
-- Tri-state checkboxes
-- Hierarchy of piece types for big puzzles
-- Tool to click on pieces to show/hide them
-- Piece filters based on boolean algebra expressions
-- Rotating piece filters
+- [x] Tri-state checkboxes
+- [ ] Hierarchy of piece types for big puzzles
+- [x] Piece filters based on boolean algebra expressions
+- [x] Multiple piece sets with different styles
+- [ ] Pre-defined sequences of piece filter presets
+
+These features are desired for the future, but there are currently unresolved questions preventing their implementation:
+
+- [ ] Tool to click on pieces to show/hide them
+- [ ] Rotating piece filters
 
 ### Other features
 
 There are other oft-requested features that will become even more important with the new variety of puzzles. I don't expect all of these to make it into the first release of Hyperspeedcube 2, but I intend to implement all of them eventually:
 
-- New puzzle list
-- New color picker
-- Timer with auto splitting
-- Fewest-moves solution leaderboard
-- Timeline for analyzing speedsolves/FMC solutions
-- Macros (custom move sequences)
-- Auto-updater
+- [ ] New puzzle list
+- [x] New color picker
+- [ ] Timer with auto splitting
+- [ ] Fewest-moves solution leaderboard
+- [ ] Timeline for analyzing speedsolves/FMC solutions
+- [ ] Macros (custom move sequences)
+- [ ] Auto-updater
 
 ### Following development
 
-I'll be posting updates in the [**Hyperspeedcube 2.0 Development Updates**][hsc-updates-thread] thread in #hyper-forum on the {% include hypercubers_discord.html %}. Once Hyperspeedcube 2.0 is ready for general use, I will ping the **@Hyperspeedcube Update** role (and possibly **@everyone**). If you'd like to support me monetarily and get access to early builds, you can [support me on Ko-fi](https://ko-fi.com/C0C2UG3S8). Any builds I provide on Ko-fi will also be available by building from source on GitHub, and a stable version is ready and has been beta-tested by my Ko-fi supporters, it will be available to download for everyone, for free.
+I'll be posting updates in the [**Hyperspeedcube 2.0 Development Updates**][hsc-updates-thread] thread in #hyper-forum on the {% include hypercubers_discord.html %}. Once Hyperspeedcube 2.0 is ready for general use, I will ping the **@Hyperspeedcube Update** role (and possibly **@everyone**). If you'd like to support me monetarily and get access to early builds, you can [support me on Ko-fi](https://ko-fi.com/C0C2UG3S8). Any builds I provide on Ko-fi will also be available by building from source on GitHub, and once a stable version is ready and has been beta-tested by my Ko-fi supporters, it will be available to download for everyone, for free.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C2UG3S8)
 
