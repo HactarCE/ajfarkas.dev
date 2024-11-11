@@ -10,6 +10,8 @@ I write high-quality applications in [Rust], and other things on occasion. See [
 
 Currently working part-time at [Quadratic], the Data Science Spreadsheet.
 
+I use the unmodified Colemak keyboard layout. See [my Moonlander configuration](pages/keyboard.md).
+
 [Rust]: https://www.rust-lang.org/
 [my GitHub]: https://github.com/HactarCE
 [Quadratic]: https://www.quadratichq.com/
