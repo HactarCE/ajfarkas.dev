@@ -16,3 +16,36 @@
 .prose code::after {
     content: '';
 }
+
+/* https://tailwindcss.com/docs/customizing-colors */
+
+/* cyan 500, 300 */
+.prose strong em, em strong {
+    color: #06b6d4;
+    &:is(.dark *) { color: #67e8f9; }
+}
+
+/* emerald 700, 200 */
+.prose em {
+    color: #047857;
+    &:is(.dark *) { color: #a7f3d0; }
+}
+
+/* blue 700, 200 */
+.prose strong {
+    color: #1d4ed8;
+    &:is(.dark *) { color: #bfdbfe; }
+}
+
+/* fuchsia 600, 400 */
+.prose code:not(pre > code) {
+    color: #c026d3;
+    &:is(.dark *) { color: #e879f9; }
+}
+.prose code:not(pre > code) {
+    border-radius: 4px;
+    padding: 2px 4px 2px;
+    background-color: rgba(var(--color-neutral-50),var(--tw-bg-opacity));
+    &:is(.dark *) { background-color: rgba(var(--color-neutral-700),var(--tw-bg-opacity)); }
+
+}
