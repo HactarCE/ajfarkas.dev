@@ -1,0 +1,18 @@
+.inline-img {
+    display: inline;
+    margin: 0px;
+}
+
+.unstyled-link {
+    text-decoration: none;
+}
+.unstyled-link:hover {
+    background-color: transparent;
+}
+
+.prose code::before {
+    content: '';
+}
+.prose code::after {
+    content: '';
+}
