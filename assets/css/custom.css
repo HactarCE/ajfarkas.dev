@@ -49,3 +49,22 @@
     &:is(.dark *) { background-color: rgba(var(--color-neutral-700),var(--tw-bg-opacity)); }
 
 }
+
+/* red 700, 400 */
+.red { color: #b91c1c; }
+.red:is(.dark *) { color: #f87171 }
+/* amber 700, 400 */
+.yellow { color: #c2410c; }
+.yellow:is(.dark *) { color: #fbbf24 }
+/* emerald 700, 400 */
+.green { color: #047857; }
+.green:is(.dark *) { color: #34d399 }
+/* blue 700, 400 */
+.blue { color: #1d4ed8; }
+.blue:is(.dark *) { color: #60a5fa }
+/* violet 700, 400 */
+.purple { color: #6d28d9; }
+.purple:is(.dark *) { color: #a78bfa }
+/* fuchsia 700, 400 */
+.magenta { color: #a21caf; }
+.magenta:is(.dark *) { color: #e879f9 }
