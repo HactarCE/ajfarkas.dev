@@ -67,3 +67,11 @@
 /* fuchsia 700, 400 */
 .magenta { color: #a21caf; }
 .magenta:is(.dark *) { color: #e879f9 }
+
+.toki-pona {
+    font-stretch: semi-expanded;
+
+    /* fuchsia 700, 200 */
+    color: #a21caf;
+    &:is(.dark *) { color: #f5d0fe; }
+}

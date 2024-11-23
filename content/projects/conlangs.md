@@ -15,9 +15,11 @@ I am proficient with [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona) and us
 
 For learning Toki Pona, I recommend using either [linku.la](https://linku.la/) or [nimi.li](https://nimi.li/) to look up words and watching [jan Misali's toki pona lessons](https://www.youtube.com/playlist?list=PLuYLhuXt4HrQwIDV7FBkA8zApw0pnEJrX) (as many as have been released). As of November 2024, I think the biggest thing missing from the video series is time idioms (such as _tempo suno_ for "day"). If you know a good learning resource, please reach out to me at [toki@ajfarkas.dev](toki@ajfarkas.dev)!
 
-_mi ken toki pona kepeken toki pona. tenpo la mi en jan tomo mi li toki e ona. mi jan Antu. mi jan Akata._
+<div class="toki-pona">
+mi ken toki pona kepeken toki pona. tenpo la mi en jan tomo mi li toki e ona. mi jan Antu. mi jan Akata.
 
-_sina wile kama sona e toki pona la, o kama jo e nimi tan [ilo linku.la](https://linku.la/) anu tan [ilo nimi.li](https://nimi.li/). o lukin e [sitelen tawa ni tan jan Misali](https://www.youtube.com/playlist?list=PLuYLhuXt4HrQwIDV7FBkA8zApw0pnEJrX). ike la, ale li lon ala. tenpo ni la, sitelen tawa li pana e mute. taso, ona li pana ala e tenpo nimi. sina sona e ijo pona pi pana sona la, o pana tawa [toki@ajfarkas.dev](toki@ajfarkas.dev)!_
+sina wile kama sona e toki pona la, o kama jo e nimi tan [ilo linku.la](https://linku.la/) anu tan [ilo nimi.li](https://nimi.li/). o lukin e [sitelen tawa ni tan jan Misali](https://www.youtube.com/playlist?list=PLuYLhuXt4HrQwIDV7FBkA8zApw0pnEJrX). ike la, ale li lon ala. tenpo ni la, sitelen tawa li pana e mute. taso, ona li pana ala e tenpo nimi. sina sona e ijo pona pi pana sona la, o pana tawa [toki@ajfarkas.dev](toki@ajfarkas.dev)!
+</div>
 
 ## New Ithkuil
 
