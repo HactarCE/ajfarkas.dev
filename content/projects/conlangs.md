@@ -18,7 +18,7 @@ For learning Toki Pona, I recommend using either [linku.la](https://linku.la/) o
 <div class="toki-pona">
 mi ken toki pona kepeken toki pona. tenpo la mi en jan tomo mi li toki e ona. mi jan Antu. mi jan Akata.
 
-sina wile kama sona e toki pona la, o kama jo e nimi tan [ilo linku.la](https://linku.la/) anu tan [ilo nimi.li](https://nimi.li/). o lukin e [sitelen tawa ni tan jan Misali](https://www.youtube.com/playlist?list=PLuYLhuXt4HrQwIDV7FBkA8zApw0pnEJrX). ike la, ale li lon ala. tenpo ni la, sitelen tawa li pana e mute. taso, ona li pana ala e tenpo nimi. sina sona e ijo pona pi pana sona la, o pana tawa [toki@ajfarkas.dev](toki@ajfarkas.dev)!
+sina wile kama sona e toki pona la, o kama jo e nimi tan lipu [linku.la](https://linku.la/) anu tan lipu [nimi.li](https://nimi.li/). o lukin e [sitelen tawa ni tan jan Misali](https://www.youtube.com/playlist?list=PLuYLhuXt4HrQwIDV7FBkA8zApw0pnEJrX). ona li pana e mute. taso, ona li pana ala e ale pi toki pona. ona li pana ala e nimi tenpo. sina sona e ijo pona pi pana sona la, o pana tawa [toki@ajfarkas.dev](toki@ajfarkas.dev)!
 </div>
 
 ## New Ithkuil
