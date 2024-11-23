@@ -20,8 +20,8 @@ If you're new to hypercubing, check out [hypercubing.xyz](https://hypercubing.xy
 ## Download
 
 {{< button href="https://github.com/HactarCE/Hyperspeedcube/releases/latest/download/hyperspeedcube_win64.zip" >}}{{< icon "windows" >}} Windows{{< /button >}}
-{{< button href="https://github.com/HactarCE/Hyperspeedcube/releases/latest/download/hyperspeedcube_linux.zip" >}}{{< icon "linux" >}} Linux{{< /button >}}
-{{< button href="https://github.com/HactarCE/Hyperspeedcube/releases/latest/download/hyperspeedcube_macos.zip" >}}{{< icon "apple" >}} macOS{{< /button >}}
+{{< button href="https://github.com/HactarCE/Hyperspeedcube/releases/latest/download/hyperspeedcube_linux.tar.gz" >}}{{< icon "linux" >}} Linux{{< /button >}}
+{{< button href="https://github.com/HactarCE/Hyperspeedcube/releases/latest/download/hyperspeedcube_macos.tar.gz" >}}{{< icon "apple" >}} macOS{{< /button >}}
 {{< button href="https://github.com/HactarCE/Hyperspeedcube/" >}}{{< icon "github" >}} Source code{{< /button >}}
 
 The latest version is {{% release_badge "HactarCE/Hyperspeedcube" %}}
