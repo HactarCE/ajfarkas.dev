@@ -9,7 +9,7 @@ title = "Andrew J. Farkas"
 [params]
   dateFormat = "2006-01-02" # https://gohugo.io/methods/time/format/#layout-string
 
-  mainSections = ["posts"]
+  mainSections = ["blog"]
   # description = "My awesome website"
 
 [params.author]
