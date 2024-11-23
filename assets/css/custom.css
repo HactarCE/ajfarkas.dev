@@ -47,14 +47,13 @@
     padding: 2px 4px 2px;
     background-color: rgba(var(--color-neutral-50),var(--tw-bg-opacity));
     &:is(.dark *) { background-color: rgba(var(--color-neutral-700),var(--tw-bg-opacity)); }
-
 }
 
 /* red 700, 400 */
 .red { color: #b91c1c; }
 .red:is(.dark *) { color: #f87171 }
 /* amber 700, 400 */
-.yellow { color: #c2410c; }
+.yellow { color: #b45309; }
 .yellow:is(.dark *) { color: #fbbf24 }
 /* emerald 700, 400 */
 .green { color: #047857; }
