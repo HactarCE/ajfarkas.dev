@@ -3,7 +3,7 @@ title = "Hyperspeedcube"
 aliases = ["/hyperspeedcube"]
 +++
 
-<a href="{{< ref `.` >}}"><img src="https://raw.githubusercontent.com/HactarCE/Hyperspeedcube/main/resources/icon/hyperspeedcube.svg?sanitize=true" alt="Hyperspeedcube logo" width="150" align="right" style="margin: 20px 0px 20px"></a>
+<a href="{{< ref `/projects/hyperspeedcube` >}}"><img src="https://raw.githubusercontent.com/HactarCE/Hyperspeedcube/main/resources/icon/hyperspeedcube.svg?sanitize=true" alt="Hyperspeedcube logo" width="150" align="right" style="margin: 20px 0px 20px"></a>
 
 {{< lead >}}
 Multidimensional twisty puzzle simulator

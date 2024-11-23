@@ -2,7 +2,7 @@
 title = "NDCell"
 +++
 
-<img src="https://raw.githubusercontent.com/HactarCE/NDCell/master/docs/img/ndcell_icon.svg?sanitize=true" alt="NDCell logo" width="150" align="right" style="margin: 20px 0px 20px">
+<a href="{{< ref `/projects/ndcell` >}}"><img src="https://raw.githubusercontent.com/HactarCE/NDCell/master/docs/img/ndcell_icon.svg?sanitize=true" alt="NDCell logo" width="150" align="right" style="margin: 20px 0px 20px"></a>
 
 {{< lead >}}
 Multidimensional cellular automaton simulator
