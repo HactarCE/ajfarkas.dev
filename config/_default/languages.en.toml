@@ -9,14 +9,14 @@ title = "Andrew J. Farkas"
 [params]
   dateFormat = "2006-01-02" # https://gohugo.io/methods/time/format/#layout-string
 
-  mainSections = ["projects", "posts"]
+  mainSections = ["posts"]
   # description = "My awesome website"
 
 [params.author]
   name = "Andrew J. Farkas"
   image = "images/avatar.png"
-  headline = "Also known as HactarCE"
-  # bio = ""
+  headline = "Also known as HactarCE (he/they)"
+  bio = "he/they"
   links = [
     { email = "mailto:hello@ajfarkas.dev" },
     # { link = "https://ajfarkas.dev/" },
