@@ -37,8 +37,6 @@ My answers are in the [conclusion](#conclusion). The rest of this post is a deep
 - Our retinas are <span class="yellow">2D</span>[^depth], yet we apparently visualize <span class="green">3D</span>.
 - Blind people are able to operate in <span class="green">3D</span> environments, so vision is not necessary for many <span class="green">3D</span> reasoning tasks.
 
-[^depth]: Humans are able to [estimate depth](https://en.wikipedia.org/wiki/Depth_perception) using both **binocular** (2 eyes) and **monocular** (1 eye) techniques. You could argue that binocular vision constitutes "<span class="green">3D</span> vision," but binocular vision is obviously not <span class="green">3D</span> in the same way that monocular vision is <span class="yellow">2D</span>. Besides, humans are able to navigate <span class="green">3D</span> environments quite well with one eye closed or when they are simulated and displayed on a computer screen, so while binocular vision is useful when discussing the _practicalities_ of <span class="magenta">4D</span> visualization and reasoning, it is irrelevant when discussing the _possibilities_.
-
 ## Take it down a notch
 
 When asking a question about higher dimensions, a very useful tool is **dimensional analogy**. Pondering the same question in a lower dimension [does not always](https://en.wikipedia.org/wiki/Rotations_in_4-dimensional_Euclidean_space) give the right answer, but it almost always yields insights that do apply in higher dimensions. We'll break down these questions into smaller ones and use dimensional analogy to help us answer them.
@@ -150,7 +148,7 @@ It's useful to talk about things that do not exist in the real world as though t
 
 ### But we only have <span class="yellow">2D</span> vision! {#2d-vision}
 
-This is true, so it's quite difficult (perhaps impossible!) to imagine the sensation of <span class="green">3D</span> vision. <span class="green">3D</span> visual perception would be helpful for visualizing <span class="magenta">4D</span> space and <span class="magenta">4D</span> objects, but it is not necessary. <span class="green">3D</span> vision would also be helpful for visualizing <span class="green">3D</span> geometry, yet we make do without it.
+This is true[^depth], so it's quite difficult (perhaps impossible!) to imagine the sensation of <span class="green">3D</span> vision. <span class="green">3D</span> visual perception would be helpful for visualizing <span class="magenta">4D</span> space and <span class="magenta">4D</span> objects, but it is not necessary. <span class="green">3D</span> vision would also be helpful for visualizing <span class="green">3D</span> geometry, yet we make do without it.
 
 ## Conclusion
 
@@ -163,3 +161,5 @@ So please, stop saying it's impossible.
 [orthographic projection]: https://en.wikipedia.org/wiki/Orthographic_projection
 [perspective projection]: https://en.wikipedia.org/wiki/Perspective_(graphical)
 [projection]: https://en.wikipedia.org/wiki/3D_projection
+
+[^depth]: Humans are able to [estimate depth](https://en.wikipedia.org/wiki/Depth_perception) using both **binocular** (2 eyes) and **monocular** (1 eye) techniques. You could argue that binocular vision constitutes "<span class="green">3D</span> vision," but binocular vision is obviously not <span class="green">3D</span> in the same way that monocular vision is <span class="yellow">2D</span>. Besides, humans are able to navigate <span class="green">3D</span> environments quite well with one eye closed or when they are simulated and displayed on a computer screen, so while binocular vision is useful when discussing the _practicalities_ of <span class="magenta">4D</span> visualization and reasoning, it is irrelevant when discussing the _possibilities_.
