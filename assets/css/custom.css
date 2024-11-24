@@ -50,25 +50,25 @@
 }
 
 /* red 700, 400 */
-.red { color: #b91c1c; }
-.red:is(.dark *) { color: #f87171 }
+span.red { color: #b91c1c; }
+span.red:is(.dark *) { color: #f87171 }
 /* amber 700, 400 */
-.yellow { color: #b45309; }
-.yellow:is(.dark *) { color: #fbbf24 }
+span.yellow { color: #b45309; }
+span.yellow:is(.dark *) { color: #fbbf24 }
 /* emerald 700, 400 */
-.green { color: #047857; }
-.green:is(.dark *) { color: #34d399 }
+span.green { color: #047857; }
+span.green:is(.dark *) { color: #34d399 }
 /* blue 700, 400 */
-.blue { color: #1d4ed8; }
-.blue:is(.dark *) { color: #60a5fa }
+span.blue { color: #1d4ed8; }
+span.blue:is(.dark *) { color: #60a5fa }
 /* violet 700, 400 */
-.purple { color: #6d28d9; }
-.purple:is(.dark *) { color: #a78bfa }
+span.purple { color: #6d28d9; }
+span.purple:is(.dark *) { color: #a78bfa }
 /* fuchsia 700, 400 */
-.magenta { color: #a21caf; }
-.magenta:is(.dark *) { color: #e879f9 }
+span.magenta { color: #a21caf; }
+span.magenta:is(.dark *) { color: #e879f9 }
 
-.toki-pona {
+span.toki-pona {
     letter-spacing: 1.5px;
 
     /* fuchsia 700, 200 */
