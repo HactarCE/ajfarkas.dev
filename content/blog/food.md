@@ -1,6 +1,6 @@
 +++
 date = "2024-11-23"
-title = "Food is Hard"
+title = "Food Is Hard"
 
 categories = ["self"]
 +++

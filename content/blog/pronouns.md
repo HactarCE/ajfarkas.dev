@@ -1,6 +1,6 @@
 +++
 date = "2024-11-22"
-title = "My pronouns"
+title = "My Pronouns"
 
 categories = ["self"]
 +++
