@@ -27,7 +27,7 @@ Or worse:
 
 > Our eyes are <span class="green">3D</span> so we cannot ever truly see in <span class="magenta">4D</span>.
 
-**<span class="red">These answers is utterly unhelpful and mostly wrong.</span>**
+**<span class="red">These answers are utterly unhelpful and mostly wrong.</span>**
 
 My answers are in the [conclusion](#conclusion). The rest of this post is a deep dive into the semantics of those two questions, and answering them both using observable facts about human perception and capabilities.
 
