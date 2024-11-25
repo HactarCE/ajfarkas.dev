@@ -68,7 +68,7 @@ span.purple:is(.dark *) { color: #a78bfa }
 span.magenta { color: #a21caf; }
 span.magenta:is(.dark *) { color: #e879f9 }
 
-span.toki-pona {
+.toki-pona {
     letter-spacing: 1.5px;
 
     /* fuchsia 700, 200 */
