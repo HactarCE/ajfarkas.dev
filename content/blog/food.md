@@ -22,7 +22,7 @@ experiences may not be entirely accurate.
 
 ## What is ARFID?
 
-As of the DSM-5, ARFID is currently something of a catch-all for eating disorders _not_ related to body image. There's 5 main types of ARFID, which I think are better described as 3 kinds of causes and 2 kinds of compounding factors.
+As of the DSM-5, ARFID is currently something of a catch-all for eating disorders _not_ related to body image. There are 5 main types of ARFID, which I think are better described as 3 kinds of causes and 2 kinds of compounding factors.
 
 ### Common symptoms
 
