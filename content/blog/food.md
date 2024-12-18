@@ -60,7 +60,7 @@ I've always been sensitive to loud sounds, especially when I'm tired or hungry, 
 
 ### Smell/taste
 
-If you're neurotypical then probably there's some foods you really like, some that you're willing to eat but aren't a big fan of, and some foods you can't tolerate even a single bite of, with a whole lot in between. For me, that whole scale is shifted: almost all foods taste awful, there's several that I'm willing eat, and there's very few that I actively enjoy. Since almost every new food I try is unpleasant, I have anxiety around trying new foods.
+If you're neurotypical then probably there's some foods you really like, some that you're willing to eat but aren't a big fan of, and some foods you can't tolerate even a single bite of, with a whole lot in between. For me, that whole scale is shifted: almost all foods taste awful, there's several that I'm willing to eat, and there's very few that I actively enjoy. Since almost every new food I try is unpleasant, I have anxiety around trying new foods.
 
 This has lots of knock-on effects:
 - **Nutritional deficiency**, which thankfully is not too bad for me
