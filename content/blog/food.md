@@ -64,7 +64,7 @@ If you're neurotypical then probably there's some foods you really like, some th
 
 This has lots of knock-on effects:
 - **Nutritional deficiency**, which thankfully is not too bad for me
-- **Social isolation**, because food is something people congregate around and discuss)
+- **Social isolation**, because food is something people congregate around and discuss
 - **Difficulty with travel**, because it's hard to find food I can eat
 - **Irritability** when hungry
 
