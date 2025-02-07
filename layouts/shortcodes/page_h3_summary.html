@@ -1,0 +1,4 @@
+{{ with .Site.GetPage (.Get 0) }}
+### [{{ .LinkTitle }}]({{ .RelPermalink }})
+{{ .Summary }}
+{{ end }}
