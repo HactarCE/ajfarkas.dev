@@ -23,7 +23,7 @@ sina wile kama sona e toki pona la, o kama jo e nimi tan lipu [linku.la](https:/
 
 ## New Ithkuil
 
-I was very active in the online [Ithkuil](https://en.wikipedia.org/wiki/Ithkuil) community from 2017 to 2019, and contributed to New Ithkuil. The official documentation for New Ithkuil is on [ithkuil.net](https://ithkuil.net/), but it is poorly formatted and contains many errors so I recommend learning from the [Community Revised Edition](https://yuorb.github.io/en/docs/).
+I was very active in the online [Ithkuil](https://en.wikipedia.org/wiki/Ithkuil) community from 2017 to 2019, and aided in the development of New Ithkuil. The official documentation for New Ithkuil is on [ithkuil.net](https://ithkuil.net/), but it is poorly formatted and contains many errors so I recommend learning from the [Community Revised Edition](https://yuorb.github.io/en/docs/).
 
 I may return to conlanging someday. I'm inspired by New Ithkuil's grammatical precision but I think there is still room for improvement, and its lexical priorities are very bizarre. (Is it really necessary to have a separate root for every single genus of flora and fauna? And a stem for "garage door opener," but not "garage," "door," or "remote control"?)
 
