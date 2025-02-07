@@ -1,6 +1,7 @@
 +++
 date = "2024-11-24"
 title = "Is It Possible To Visualize 4D?"
+aliases = ["/blog/visualize_4d"]
 
 categories = ["math", "puzzles"]
 +++
