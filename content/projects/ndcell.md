@@ -2,13 +2,13 @@
 title = "NDCell"
 +++
 
-<a href="{{< ref `/projects/ndcell` >}}"><img src="https://raw.githubusercontent.com/HactarCE/NDCell/master/docs/img/ndcell_icon.svg?sanitize=true" alt="NDCell logo" width="150" align="right" style="margin: 20px 0px 20px"></a>
-
 {{< lead >}}
 Multidimensional cellular automaton simulator
 {{< /lead >}}
 
-NDCell is a work-in-progress 2D and 3D cellular automaton simulator that I will hopefully return to someday. It currently has rendering, editing, and basic simulation working, but in the future it will hopefully have its own domain-specific cellular automaton specification language too.
+<a href="{{< ref `/projects/ndcell` >}}"><img src="https://raw.githubusercontent.com/HactarCE/NDCell/master/docs/img/ndcell_icon.svg?sanitize=true" alt="NDCell logo" width="100" align="right" style="margin: 0px 0px 0px 10px"></a>
+
+NDCell is a work-in-progress 2D and 3D cellular automaton simulator that I will hopefully return to someday. It currently has rendering, editing, and basic simulation working, and I'm most of the way through implementing a new domain-specific cellular automaton specification language too.
 
 <!--more-->
 

@@ -3,11 +3,11 @@ title = "Hyperspeedcube"
 aliases = ["/hyperspeedcube"]
 +++
 
-<a href="{{< ref `/projects/hyperspeedcube` >}}"><img src="https://raw.githubusercontent.com/HactarCE/Hyperspeedcube/main/crates/hyperspeedcube/resources/icon/hyperspeedcube.svg?sanitize=true" alt="Hyperspeedcube logo" width="150" align="right" style="margin: 20px 0px 20px"></a>
-
 {{< lead >}}
 Multidimensional twisty puzzle simulator
 {{< /lead >}}
+
+<a href="{{< ref `/projects/hyperspeedcube` >}}"><img src="https://raw.githubusercontent.com/HactarCE/Hyperspeedcube/main/crates/hyperspeedcube/resources/icon/hyperspeedcube.svg?sanitize=true" alt="Hyperspeedcube logo" width="100" align="right" style="margin: 0px 0px 0px 10px"></a>
 
 Hyperspeedcube is a modern, beginner-friendly 3D and 4D Rubik's cube simulator with customizable mouse and keyboard controls and advanced features for speedsolving. It's been used to break numerous speedsolving records and runs on all major operating systems plus the web.
 
