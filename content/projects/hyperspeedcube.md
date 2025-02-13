@@ -109,7 +109,7 @@ The new color customization UI is complete. It supports built-in and user-define
 
 #### Keybinds
 
-{{% status_badge "not started" "red" %}}
+{{% status_badge "in progress" "blue" %}}
 
 The keybind sets system in Hyperspeedcube 1 is complex and unintuitive. I have plans for a system involving modes that will have just one list of keybinds organized into collapsible sections, and each section may be active in some subset of modes. Keybinds will be shared between puzzles with similar twist sets, even if the shapes are different; for example, a face-turning cube and corner-turning octahedron would share the same keybinds.
 
@@ -141,11 +141,11 @@ There are other oft-requested features that will become even more important with
 
 - [x] New puzzle list {{% status_badge "complete" "darkgreen" %}}
 - [x] New color picker {{% status_badge "complete" "darkgreen" %}}
-- [ ] Timer with auto splitting {{% status_badge "not started" "red" %}}
+- [ ] Timer with auto splitting {{% status_badge "partially complete" "yellow" %}}
 - [ ] Fewest-moves solution leaderboard {{% status_badge "partially complete" "yellow" %}}
 - [ ] Timeline for analyzing speedsolves/FMC solutions
 - [ ] Macros (custom move sequences)
-- [ ] Auto-updater
+- [ ] Auto-updater {{% status_badge "not started" "red" %}}
 
 ### Following development
 
