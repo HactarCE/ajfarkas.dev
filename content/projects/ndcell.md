@@ -15,8 +15,8 @@ NDCell is a work-in-progress 2D and 3D cellular automaton simulator that I will 
 ## Download
 
 {{< button href="https://github.com/HactarCE/NDCell/releases/latest/download/ndcell_win64.zip" >}}{{< icon "windows" >}} Windows{{< /button >}}
-{{< button href="https://github.com/HactarCE/NDCell/releases/latest/download/ndcell_linux.zip" >}}{{< icon "linux" >}} Linux{{< /button >}}
-{{< button href="https://github.com/HactarCE/NDCell/releases/latest/download/ndcell_macos.zip" >}}{{< icon "apple" >}} macOS{{< /button >}}
+{{< button href="https://github.com/HactarCE/NDCell/releases/latest/download/ndcell_linux.tar.gz" >}}{{< icon "linux" >}} Linux{{< /button >}}
+{{< button href="https://github.com/HactarCE/NDCell/releases/latest/download/ndcell_macos.tar.gz" >}}{{< icon "apple" >}} macOS{{< /button >}}
 {{< button href="https://github.com/HactarCE/NDCell/" >}}{{< icon "github" >}} Source code{{< /button >}}
 
 The latest version is {{% release_badge "HactarCE/ndcell" %}}
