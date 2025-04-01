@@ -10,3 +10,10 @@ summaryLength = 0
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[imaging]
+  anchor = 'Smart'
+  bgColor = '#ffffff'
+  hint = 'text'
+  quality = 100
+  resampleFilter = 'NearestNeighbor'
