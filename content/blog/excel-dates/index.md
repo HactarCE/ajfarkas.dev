@@ -1,8 +1,7 @@
 +++
 date = "2025-04-01"
-draft = true
 title = "Cursed Excel: “1/2”+1=45660"
-canonicalUrl = "https://www.quadratichq.com/blog/excel-dates"
+canonicalUrl = "https://www.quadratichq.com/blog/cursed-excel-datetime-math"
 
 categories = ["code"]
 +++
@@ -13,7 +12,7 @@ Learnings from trying to make an Excel-compatible spreadsheet
 
 <!--more-->
 
-_This post was [originally published on the Quadratic Blog](https://example.com/)._
+_This post was [originally published on the Quadratic Blog](https://www.quadratichq.com/blog/cursed-excel-datetime-math)._
 
 ---
 
