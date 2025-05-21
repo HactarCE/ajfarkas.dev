@@ -30,6 +30,16 @@ Or see [instructions to build from source](https://github.com/HactarCE/Hyperspee
 
 {{% kofi_badge %}}
 
+## Testimonials
+
+> also, huge shoutout to hactar!! the hyperspeedcube program is way better than it has any right to be, like hello?? how is it so goated???
+
+> and heres the thing, he's working on a 2.0 version thats going to be infinitely better
+
+> I *highly* recommend Hyperspeedcube if you want to do 5^4. The piece filters menu even without any presets will make a world of difference.
+
+> if you can use it, a lot of us would recommend hyperspeedcube rather than MC4D these days, since it has more features to make things easier/more approachable, and is generally a more modern program
+
 ## Help
 
 See [Hyperspeedcube - Troubleshooting](https://hypercubing.xyz/software/hyperspeedcube/#troubleshooting) and the [FAQ](https://hypercubing.xyz/faq/#hyperspeedcube).
