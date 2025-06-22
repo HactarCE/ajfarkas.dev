@@ -73,9 +73,9 @@ This is much more difficult to understand at first than cross-sections, but is a
 
 <span class="magenta">4D</span> Blocks and its predecessor, [<span class="magenta">4D</span> Maze](https://www.urticator.net/maze/), are the only <span class="magenta">4D</span> games I'm aware of with first-person camera controls and an unconstrained vertical axis. Unfortunately they have no mouse controls and the keyboard controls are not particularly satisfying to use. ~~I would love to see a modern rewrite[^blocks-rewrite].~~
 
-**UPDATE (June 2025):** 4D Blocks _does_ have a modern rewrite in the form of [Tesserxel](https://wxyhly.github.io/tesserxel/), which has 4D planes, trains, chains, drones, and even a 4-dimensional backrooms to explore! I highly recommend trying it out.
+**UPDATE (June 2025):** <span class="magenta">4D</span> Blocks _does_ have a modern rewrite in the form of [Tesserxel](https://wxyhly.github.io/tesserxel/), which has <span class="magenta">4D</span> planes, trains, chains, drones, and even a 4-dimensional backrooms to explore! I highly recommend trying it out.
 
-[^blocks-rewrite]: Luna Harran [started one](https://github.com/Sonicpineapple/Blocks), but it's currently stalled because 4D occlusion is challenging.
+[^blocks-rewrite]: Luna Harran [started one](https://github.com/Sonicpineapple/Blocks), but it's currently stalled because <span class="magenta">4D</span> occlusion is challenging.
 
 ### Spatial visualization
 
