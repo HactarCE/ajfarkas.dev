@@ -3,6 +3,7 @@ title = "Projects"
 +++
 
 {{% page_h2_summary "projects/hyperspeedcube" %}}
+{{% page_h2_summary "projects/portal-planner" %}}
 {{% page_h2_summary "projects/ndcell" %}}
 {{% page_h2_summary "projects/infinite-minesweeper" %}}
 
