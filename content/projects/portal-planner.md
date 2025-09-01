@@ -48,7 +48,7 @@ There are several results of these mechanics that may be surprising even to expe
 - Teleportation does not always select the closest portal (due to the square prism limitation)
 - The Euclidean distance prioritization may give different results for <span class="red">Nether</span>-to-<span class="blue">Overworld</span> versus <span class="blue">Overworld</span>-to-<span class="red">Nether</span> teleportation (due to the multiplication/division by 8 only applying to horizontal coordinates)
 - If one portal links to another, the reverse link might not be possible, even if there are no other portals
-- The destination portal depends only on the _location of the entity being teleporting_, not the location of the portal it entered
+- The destination portal depends only on the _location of the entity being teleported_, not the location of the portal it entered
 - A single portal may link to entirely different destinations depending on the exact location of the entity when teleportation occurs
 - Different entities may be able to reach different destinations due to differences in hitbox size[^clipping]
 
