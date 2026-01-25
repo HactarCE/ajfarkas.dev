@@ -30,16 +30,6 @@ Or see [instructions to build from source](https://github.com/HactarCE/Hyperspee
 
 {{% kofi_badge %}}
 
-## Testimonials
-
-> also, huge shoutout to hactar!! the hyperspeedcube program is way better than it has any right to be, like hello?? how is it so goated???
-
-> and heres the thing, he's working on a 2.0 version thats going to be infinitely better
-
-> I *highly* recommend Hyperspeedcube if you want to do 5^4. The piece filters menu even without any presets will make a world of difference.
-
-> if you can use it, a lot of us would recommend hyperspeedcube rather than MC4D these days, since it has more features to make things easier/more approachable, and is generally a more modern program
-
 ## Help
 
 See [Hyperspeedcube - Troubleshooting](https://hypercubing.xyz/software/hyperspeedcube/#troubleshooting) and the [FAQ](https://hypercubing.xyz/faq/#hyperspeedcube).
@@ -55,13 +45,24 @@ Click for full resolution.
 {{% small_imgur src="jWmiZIG.png" alt="3x3x3x3 with the back cell mid-twist" %}}
 {{% small_imgur src="XAH18Lo.png" alt="Solved 3x3x3x3 with 2c pieces highlighted and stickers on the same piece connected" %}}
 
+## Testimonials
+
+> also, huge shoutout to hactar!! the hyperspeedcube program is way better than it has any right to be, like hello?? how is it so goated???
+
+> and heres the thing, he's working on a 2.0 version thats going to be infinitely better
+
+> I *highly* recommend Hyperspeedcube if you want to do 5^4. The piece filters menu even without any presets will make a world of difference.
+
+> if you can use it, a lot of us would recommend hyperspeedcube rather than MC4D these days, since it has more features to make things easier/more approachable, and is generally a more modern program
+
+> Half of the pain of this program is you expect it to be bad, and it's actually good, so you try to work around a problem that's already solved
+
 ## Features
 
 - Supports several puzzles
   - 3D Rubik's cube from 1x1 up to 9x9
   - 4D "Rubik's hypercube" from 1x1 up to 9x9
 - Import/export using `.hsc` or MC4D-compatible `.log` file
-  - `.log` is available for 4D only
 - Mouse and keyboard controls for all puzzles, with multiple keybind sets
 - Filter which pieces are visible, with presets
 - Mark pieces to track as they move
@@ -91,17 +92,27 @@ For instructions on how to use piece filters, see [this video tutorial](https://
 
 ## Future plans
 
-I am currently (as of mid 2024) working on Hyperspeedcube 2.0, which will vastly expand the capabilities of Hyperspeedcube's puzzle engine and overhaul the UI to be more powerful and more intuitive.
+I am currently (as of early 2026) working on Hyperspeedcube 2.0, which vastly expands the capabilities of Hyperspeedcube's puzzle engine and overhauls the UI to be more powerful and more intuitive.
 
 ### New puzzle engine
 
 {{% status_badge "complete enough" "darkgreen" %}}
 
-The new puzzle engine is almost completely implemented. Puzzles are defined using a [Lua API](https://dev.hypercubing.xyz/hsc/puzzle-dev/), and can be reloaded in seconds. Puzzles from 3D to 7D can be rendered, although there are only mouse controls available for 3D and 4D puzzles. Puzzles are defined using (hyper)planar cuts and must be doctrinaire. This is sufficient to simulate nearly every 4D+ twisty puzzle we are currently aware of and many more. Once released, Hyperspeedcube 2 will make [Magic Cube 4D](https://superliminal.com/cube/), [Magic Cube 5D](https://www.gravitation3d.com/magiccube5d/), [Magic Cube 7D](https://superliminal.com/andrey/mc7d/), [Magic Puzzle Ultimate](https://superliminal.com/andrey/mpu/), and [Magic Simplex 5D](https://superliminal.com/andrey/ms5d/) completely obsolete, and will make [pCubes](https://twistypuzzles.com/forum/viewtopic.php?t=27054) and [Magic 120 Cell](http://www.gravitation3d.com/magic120cell/index.html) largely obsolete.
+The new puzzle engine is almost completely implemented. Puzzle generators are defined using [Hyperpuzzlescript](https://github.com/HactarCE/Hyperspeedcube/tree/main/crates/hyperpuzzlescript#hyperpuzzlescript), a bespoke domain-specific programming language. Puzzle definitions support the following features:
 
-See [this GitHub issue](https://github.com/HactarCE/Hyperspeedcube/issues/55) for a list of puzzles that will be in Hyperspeedcube 2.0.
+- Puzzle generators {{% status_badge "partially complete" "yellow" %}}
+- Multi-layer (hyper)planar cuts {{% status_badge "complete" "darkgreen" %}}
+- Shapeshifting {{% status_badge "complete" "darkgreen" %}}
+- Jumbling {{% status_badge "partially complete" "yellow" %}}
+- Puzzle notation {{% status_badge "in progress" "blue" %}}
+- 3- to 7-dimensional Euclidean space {{% status_badge "complete" "darkgreen" %}}
+- Hot-reloading by pressing <kbd>F5</kbd> {{% status_badge "complete" "darkgreen" %}}
 
-With further modification, this new puzzle engine will also be able to support features never before seen in higher-dimensional puzzles, including bandaging, jumbling, certain nonplanar cuts, puzzle generators (e.g., P×Q×R×S hypercuboid generator), and multiple cores (e.g., corner-turning cuboids).
+This is sufficient to simulate nearly every 4D+ twisty puzzle we are currently aware of and many more. Once released, Hyperspeedcube 2 will make [Magic Cube 4D](https://superliminal.com/cube/), [Magic Cube 5D](https://www.gravitation3d.com/magiccube5d/), [Magic Cube 7D](https://superliminal.com/andrey/mc7d/), [Magic Puzzle Ultimate](https://superliminal.com/andrey/mpu/), and [Magic Simplex 5D](https://superliminal.com/andrey/ms5d/) completely obsolete, and will make [pCubes](https://twistypuzzles.com/forum/viewtopic.php?t=27054) and [Magic 120 Cell](http://www.gravitation3d.com/magic120cell/index.html) largely obsolete.
+
+See [HactarCE/Hyperspeedcube#74](https://github.com/HactarCE/Hyperspeedcube/issues/74) for a list of puzzles that will be in Hyperspeedcube 2.0.
+
+With further modification, this new puzzle engine will also be able to support features never before seen in higher-dimensional puzzles, including certain nonplanar cuts and multiple cores (e.g., corner-turning cuboids).
 
 I also intend to add a tiling engine, which will support everything in [MagicTile](http://roice3.org/magictile/) as well as puzzles on non-regular tilings. I'm still investigating what this would look like, and what the limits would be.
 
@@ -151,15 +162,15 @@ There are other oft-requested features that will become even more important with
 
 - [x] New puzzle list {{% status_badge "complete" "darkgreen" %}}
 - [x] New color picker {{% status_badge "complete" "darkgreen" %}}
-- [ ] Timer with auto splitting {{% status_badge "partially complete" "yellow" %}}
-- [ ] Fewest-moves solution leaderboard {{% status_badge "partially complete" "yellow" %}}
+- [ ] Integrated timer {{% status_badge "complete" "darkgreen" %}}
+- [ ] [Fewest-moves solution leaderboard](https://lb.hypercubing.xyz/?event=fmc) {{% status_badge "complete" "darkgreen" %}}
+- [ ] Auto-updater {{% status_badge "partially complete" "yellow" %}}
 - [ ] Timeline for analyzing speedsolves/FMC solutions
 - [ ] Macros (custom move sequences)
-- [ ] Auto-updater {{% status_badge "not started" "red" %}}
 
 ### Following development
 
-I'll be posting updates in the [**Hyperspeedcube 2.0 Development Updates**][hsc-updates-thread] thread in `#hyper-forum` on the {{% hypercubers_discord %}}. Once Hyperspeedcube 2.0 is ready for general use, I will ping the **@Hyperspeedcube Update** role (and possibly **@everyone**). If you'd like to support me monetarily and get access to early builds, you can [support me on Ko-fi](https://ko-fi.com/C0C2UG3S8). Any builds I provide on Ko-fi will also be available by building from source on GitHub, and once a stable version is ready and has been beta-tested by my Ko-fi supporters, it will be available to download for everyone, for free.
+I'll be posting updates in the [**Hyperspeedcube 2.0 Development Updates**][hsc-updates-thread] thread in `#hyper-forum` on the {{% hypercubers_discord %}}. Once Hyperspeedcube 2.0 is ready for general use, I will ping **@everyone** in the Discord server. If you'd like to support me monetarily and get access to early builds, you can [support me on Ko-fi](https://ko-fi.com/C0C2UG3S8). Any builds I provide on Ko-fi will also be available by building from source on GitHub, and once a stable version is ready and has been beta-tested by my Ko-fi supporters, it will be available to download for everyone, for free.
 
 {{% kofi_badge %}}
 
