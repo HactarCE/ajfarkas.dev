@@ -67,7 +67,7 @@ I would be remiss if I did not mention [<span class="magenta">4D</span> Blocks](
     src="4d_blocks.png"
     alt=`Left: 3D-to-2D perspective projection of orange rails leading into the distance, then turning left. Right: 4D-to-3D perspective projection of orange rails leading into the distance, then turning left.`
     caption=`
-On the left is a <span class="green">3D</span> scene, perspective-projected to a <span class="yellow">2D</span> square. On the right is a <span class="magenta">4D</span> scene, perspective-projected to a <span class="green">3D</span> cube (which is then orthographic-projected to the <span class="yellow">2D</span> screen). In both scenes, an orange railroad track extends forwards from below the current position, then turn left. As the rails lead farther away, they become smaller and recede to the center of the projection.` >}}
+On the left is a <span class="green">3D</span> scene, perspective-projected to a <span class="yellow">2D</span> square. On the right is a <span class="magenta">4D</span> scene, perspective-projected to a <span class="green">3D</span> cube (which is then orthographic-projected to the <span class="yellow">2D</span> screen). In both scenes, an orange railroad track extends forwards from below the current position, then turns left. As the rails lead farther away, they become smaller and recede to the center of the projection.` >}}
 
 This is much more difficult to understand at first than cross-sections, but is arguably more powerful. After spending some time in the program, the visualization starts to become intuitive---smaller objects near the center of the projection are farther away, and moving forward causes far-away objects in front to become closer, making them appear to grow.
 
