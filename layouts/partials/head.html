@@ -147,4 +147,7 @@
   {{ if templates.Exists "partials/extend-head.html" }}
     {{ partial "extend-head.html" . }}
   {{ end }}
+  {{ if .Param "math" }}
+    {{ partialCached "math.html" . }}
+  {{ end }}
 </head>
