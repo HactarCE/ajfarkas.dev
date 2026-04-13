@@ -15,8 +15,8 @@ title = "Andrew J. Farkas"
 [params.author]
   name = "Andrew J. Farkas"
   image = "images/avatar.png"
-  headline = "Also known as HactarCE (he/they)"
-  bio = "he/they"
+  headline = "Also known as HactarCE"
+  bio = "he/him"
   links = [
     { email = "mailto:hello@ajfarkas.dev" },
     # { link = "https://ajfarkas.dev/" },
