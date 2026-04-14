@@ -13,7 +13,7 @@ title = "Projects"
 - [Hypercubing Wiki](https://hypercubing.xyz/)
 - [Hypercubic Leaderboards](https://lb.hypercubing.xyz/)
 - [discrete](https://github.com/Sonicpineapple/Discrete), an interactive visualization of [3D hyperbolic honeycombs](https://en.wikipedia.org/wiki/Uniform_honeycombs_in_hyperbolic_space) using the [2D conformal boundary](http://hyperbolichoneycombs.org/), pair-programmed with Luna Harran
-- [robodoan](https://hypercubing.xyz/robodoan/), an automated fewest-moves solver which helped set the [computer-assisted fewest-moves record](https://lb.hypercubing.xyz/solve?id=927) for the 4D Rubik's Cube.
+- [robodoan](https://github.com/HactarCE/robodoan/), an automated fewest-moves solver which helped set the [computer-assisted fewest-moves record](https://lb.hypercubing.xyz/solve?id=927) for the 4D Rubik's Cube.
 - [Sphenic biaxe](https://hypercubing.xyz/sphenic-biaxe/) puzzle simulator
 - [grippy](https://github.com/HactarCE/grippy), a tool for analyzing Rubik’s cube algorithms using [Grip Theory](https://hypercubing.xyz/theory/grip-theory/)
 
