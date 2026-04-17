@@ -174,18 +174,9 @@ At the time, I was quite happy with this! But I later found three issues with it
 
 Multiple layers of transparent stickers combine into a fog that obscures the stickers behind. This isn't an issue on a 3x3x3x3, but on a larger puzzle like 9x9x9x9 it becomes quite difficult to see inner layers:
 
-<div style="display:grid;">
-    <div style="position: relative">
-        <img
-            src="hsc1_94_filtered.png"
-            alt="4D 9x9x9x9 Rubik's cube, scrambled, with all pieces partially-transparent except for the 3x3x3 center of each cell, which is visible but hazy through the fog of transparent pieces">
-        <img
-            src="hsc1_94.png"
-            alt="4D 9x9x9x9 Rubik's cube, scrambled"
-            class="fade-in-on-hover"
-            tabindex="0">
-    </div>
-</div>
+<img
+    src="hsc1_94_filtered.png"
+    alt="4D 9x9x9x9 Rubik's cube, scrambled, with all pieces partially-transparent except for the 3x3x3 center of each cell, which is visible but hazy through the fog of transparent pieces">
 
 Of course you could compensate by lowering the opacity of stickers, but you'd have to raise it again later when solving the outer layers. Besides, the fog makes it difficult to tell the color of the transparent stickers too; only the colors near the edges of each cell are legible.
 
@@ -237,18 +228,9 @@ The first texture is responsible for the opaque geometry visible behind the tran
 
 Here's the same 9x9x9x9 demo as before but rendered using this technique in Hyperspeedcube 2:
 
-<div style="display:grid;">
-    <div style="position: relative">
-        <img
-            src="hsc2_94_filtered.png"
-            alt="4D 5x5x5x5 Rubik's cube, scrambled, with all pieces invisible except for green center pieces, which are opaque">
-        <img
-            src="hsc2_94.png"
-            alt="4D 5x5x5x5 Rubik's cube, with non-center pieces invisible, green center pieces opaque, and other center pieces transparent"
-            class="fade-in-on-hover"
-            tabindex="0">
-    </div>
-</div>
+<img
+    src="hsc2_94_filtered.png"
+    alt="4D 5x5x5x5 Rubik's cube, scrambled, with all pieces invisible except for green center pieces, which are opaque">
 
 (The outer layers being thicker is a stylistic choice unrelated to the rendering technique.)
 
