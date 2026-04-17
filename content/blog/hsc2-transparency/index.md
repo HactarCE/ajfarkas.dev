@@ -293,6 +293,8 @@ We can even recreate the fog effect using multiple layers of transparency if we 
 
 I think this technique strikes a good balance of aesthetics, usability, and performance, and it was relatively easy to implement.
 
+---
+
 ## Addendum: Outlines and grayscaling
 
 Transparency is only part of the equation. Hyperspeedcube provides use other techniques that can be used on their own or in conjunction with transparency to deemphasize pieces. For example, when I'm solving a duoprism, I use three filter levels:
