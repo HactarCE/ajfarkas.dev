@@ -30,6 +30,7 @@ title = "Projects"
 - [Colorized](https://github.com/HactarCE/Colorized-CA#readme), a cellular automaton capable of computation and universal construction
 - [Circle intersection algorithm](https://github.com/HactarCE/CircleIntersectionTest)
 - [xkcd-rank](https://github.com/HactarCE/xkcd-rank), an application for a [14-hour livestream where I ranked all 3000 xkcd comics](https://www.youtube.com/watch?v=RYu0fMBNwtg)
+- [teqxt](https://github.com/HactarCE/teqxt), a text renderer prototopye
 
 ## Interests
 
