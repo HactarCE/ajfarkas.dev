@@ -96,15 +96,16 @@ I am currently (as of early 2026) working on Hyperspeedcube 2.0, which vastly ex
 
 ### New puzzle engine
 
-{{% status_badge "complete enough" "darkgreen" %}}
+{{% status_badge "mostly complete" "green" %}}
 
 The new puzzle engine is almost completely implemented. Puzzle generators are defined using [Hyperpuzzlescript](https://github.com/HactarCE/Hyperspeedcube/tree/main/crates/hyperpuzzlescript#hyperpuzzlescript), a bespoke domain-specific programming language. Puzzle definitions support the following features:
 
-- Puzzle generators {{% status_badge "partially complete" "yellow" %}}
+- Puzzle generators {{% status_badge "complete" "darkgreen" %}}
+- Puzzle product generator {{% status_badge "in progress" "yellow" %}}
 - Multi-layer (hyper)planar cuts {{% status_badge "complete" "darkgreen" %}}
 - Shapeshifting {{% status_badge "complete" "darkgreen" %}}
 - Jumbling {{% status_badge "partially complete" "yellow" %}}
-- Puzzle notation {{% status_badge "in progress" "blue" %}}
+- Puzzle notation {{% status_badge "complete" "green" %}}
 - 3- to 7-dimensional Euclidean space {{% status_badge "complete" "darkgreen" %}}
 - Hot-reloading by pressing <kbd>F5</kbd> {{% status_badge "complete" "darkgreen" %}}
 
@@ -162,9 +163,9 @@ There are other oft-requested features that will become even more important with
 
 - [x] New puzzle list {{% status_badge "complete" "darkgreen" %}}
 - [x] New color picker {{% status_badge "complete" "darkgreen" %}}
-- [ ] Integrated timer {{% status_badge "complete" "darkgreen" %}}
-- [ ] [Fewest-moves solution leaderboard](https://lb.hypercubing.xyz/?event=fmc) {{% status_badge "complete" "darkgreen" %}}
-- [ ] Auto-updater {{% status_badge "partially complete" "yellow" %}}
+- [x] Integrated timer {{% status_badge "complete" "darkgreen" %}}
+- [x] [Fewest-moves solution leaderboard](https://lb.hypercubing.xyz/?event=fmc) {{% status_badge "complete" "darkgreen" %}}
+- [x] Auto-updater {{% status_badge "partially complete" "yellow" %}}
 - [ ] Timeline for analyzing speedsolves/FMC solutions
 - [ ] Macros (custom move sequences)
 
