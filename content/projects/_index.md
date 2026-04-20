@@ -1,12 +1,13 @@
 +++
 title = "Projects"
+layout = "single"
 +++
 
 {{% page_h2_summary "projects/hyperspeedcube" %}}
 {{% page_h2_summary "projects/portal-planner" %}}
 {{% page_h2_summary "projects/ndcell" %}}
 {{% page_h2_summary "projects/infinite-minesweeper" %}}
-{{% page_h2_summary "projects/led-wall.md" %}}
+{{% page_h2_summary "projects/led-wall" %}}
 
 ## Other puzzle-related projects
 
