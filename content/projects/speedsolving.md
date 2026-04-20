@@ -5,7 +5,7 @@ summary = "I speedsolve 3D and 4D Rubik's cubes, and hold several hypercubing wo
 
 ## 4D
 
-At the time of writing (April 2025), I hold the speedsolving world records for 3x3x3x3, 4x4x4x4, and 5x5x5x5 puzzles, and was the first person to solve a 3x3x3x3 in less than 2 minutes. See the [hypercubing.xyz leaderboards](https://hypercubing.xyz/leaderboards/) for the current world records, [my hypercubing.xyz profile](https://hypercubing.xyz/leaderboards/solvers/hactar/) for my official PBs, and [this playlist](https://www.youtube.com/playlist?list=PLBQ7ltR88PRukkrTqT8Wld5g2zBWjdIgg) for some videos of my solves.
+At the time of writing (April 2025), I hold the speedsolving world records for 3x3x3x3, 4x4x4x4, and 5x5x5x5 puzzles, and was the first person to solve a 3x3x3x3 in less than 2 minutes. See [lb.hypercubing.xyz](https://lb.hypercubing.xyz/) for the current world records, [my lb.hypercubing.xyz profile](https://lb.hypercubing.xyz/solver?id=8) for my official PBs, and [my Hactar Hypercubing Solving playlist](https://www.youtube.com/playlist?list=PLBQ7ltR88PRukkrTqT8Wld5g2zBWjdIgg) for some videos of my solves.
 
 Join the {{% hypercubers_discord %}} if you're curious or want to get involved!
 
