@@ -9,4 +9,4 @@ showPagination = true
 showReadingTime = true
 +++
 
-I write about code, conlangs, mental health, and philosophy. They all kinda blend together at times.
+I write mostly about code, but sometimes about other things too.
