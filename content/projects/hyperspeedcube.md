@@ -86,9 +86,9 @@ Hyperspeedcube has completely customizable mouse and keyboard controls. By defau
 
 The keyboard controls for the 3D Rubik's cube are mostly based on [Ryan Heise's speedcube simulator](https://www.ryanheise.com/cube/speed.html).
 
-For instructions on how to use or customize the keybinds, see [this video tutorial](https://youtube.com/watch?v=yRt5DVqjnEo&list=PLBQ7ltR88PRv9Rmrv7iRhupGaazEPWZi5&index=3).
+For instructions on how to use or customize the keybinds, watch the [video tutorial on keybinds](https://youtube.com/watch?v=yRt5DVqjnEo&list=PLBQ7ltR88PRv9Rmrv7iRhupGaazEPWZi5&index=3).
 
-For instructions on how to use piece filters, see [this video tutorial](https://youtube.com/watch?v=LAYXy5mh3FI&list=PLBQ7ltR88PRv9Rmrv7iRhupGaazEPWZi5&index=2).
+For instructions on how to use piece filters, watch the [video tutorial on piece filters](https://youtube.com/watch?v=LAYXy5mh3FI&list=PLBQ7ltR88PRv9Rmrv7iRhupGaazEPWZi5&index=2).
 
 ## Future plans
 
