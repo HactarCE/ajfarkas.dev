@@ -11,7 +11,7 @@ summary = "I am proficient with Toki Pona, and was active in the Ithkuil communi
 
 ## Toki Pona
 
-I am proficient with [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona) and use it intermittently for casual conversation with my housemates. My name in Toki Pona is _jan Antu_ (Andrew) or _jan Akata_ (Hactar).
+I am proficient with [Toki Pona](http://tokipona.net/) and use it intermittently for casual conversation with my housemates. My name in Toki Pona is _jan Antu_ (Andrew) or _jan Akata_ (Hactar).
 
 For learning Toki Pona, I recommend using either [linku.la](https://linku.la/) or [nimi.li](https://nimi.li/) to look up words and watching [jan Misali's toki pona lessons](https://www.youtube.com/playlist?list=PLuYLhuXt4HrQwIDV7FBkA8zApw0pnEJrX) (as many as have been released). As of November 2024, I think the biggest thing missing from the video series is time idioms (such as _tempo suno_ for "day"). If you know a good learning resource, please reach out to me at [toki@ajfarkas.dev](mailto:toki@ajfarkas.dev)!
 
