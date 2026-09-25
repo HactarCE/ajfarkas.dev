@@ -7,6 +7,6 @@ I use the [Colemak](https://en.wikipedia.org/wiki/Colemak) keyboard layout on a 
 
 <!--more-->
 
-See [my Moonlander configuration](https://configure.zsa.io/moonlander/layouts/yGr0n/).
+See [my Moonlander configuration](https://configure.zsa.io/moonlander/layouts/Lmb5M/).
 
 I would like to write a blog post someday about my keyboard layout design philosophy.
