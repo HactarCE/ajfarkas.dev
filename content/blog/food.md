@@ -103,7 +103,7 @@ If you're close to me and want to support me then you probably already know this
 - **Let me waste food.** If wasting food is not socially acceptable, then that provides an additional barrier to preparing food when I'm not sure I'll eat all of it. Food waste is a problem in the world, but my personal impact on it is irrelevant compared to my mental and physical health.
 - **Let me try a bite of your food, if I'm curious.** I will ask if I'm interested. Usually I will want a microscopic portion, and I might or might not tell you what I think of it. My goal is usually just to gain a single sample point in the high-dimensional[^dimensions] space of food experience, regardless of whether it's something I'll eat in the future.
 - **Occasionally suggest foods I could try.** Especially if I've told you about some of my recent successful and unsuccessful food exploration, you might have good advice!
-- **Don't push me to try new foods.** Doing so repeatedly will degrade our relationship. There is exactly one person who is responsible for pushing me to try new foods, and that is my ARFID specialist.
+- **Don't push me to try new foods.** Doing so repeatedly will degrade our relationship. There is exactly one person who is responsible for pushing me to try new foods, and that is my dietician.
 
 ## What to do if you relate
 
